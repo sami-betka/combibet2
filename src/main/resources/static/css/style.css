@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.backg {
+/* 	background-color: black; */
+	background-image: url('../img/turfiste.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.op {
+	opacity: 0.95;
+}
+
+.ta {
+	width: 300px;
+}
